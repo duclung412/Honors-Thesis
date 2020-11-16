@@ -1,0 +1,425 @@
+,STATES,YEAR,MATH,FIPST,REFORM
+0,Alabama,1992,208,1,0
+1,Alabama,1996,212,1,0
+2,Alabama,2000,218,1,0
+3,Alabama,2003,223,1,0
+4,Alabama,2005,225,1,0
+5,Alabama,2007,229,1,0
+6,Alabama,2009,228,1,0
+7,Alabama,2011,231,1,0
+8,Alabama,2013,233,1,0
+9,Alaska,1996,224,2,1
+10,Alaska,2003,233,2,1
+11,Alaska,2005,236,2,1
+12,Alaska,2007,237,2,1
+13,Alaska,2009,237,2,1
+14,Alaska,2011,236,2,1
+15,Alaska,2013,236,2,1
+16,Arizona,1992,215,4,1
+17,Arizona,1996,218,4,1
+18,Arizona,2000,219,4,1
+19,Arizona,2003,229,4,1
+20,Arizona,2005,230,4,1
+21,Arizona,2007,232,4,1
+22,Arizona,2009,230,4,1
+23,Arizona,2011,235,4,1
+24,Arizona,2013,240,4,1
+25,Arkansas,1992,210,5,1
+26,Arkansas,1996,216,5,1
+27,Arkansas,2000,217,5,1
+28,Arkansas,2003,229,5,1
+29,Arkansas,2005,236,5,1
+30,Arkansas,2007,238,5,1
+31,Arkansas,2009,238,5,1
+32,Arkansas,2011,238,5,1
+33,Arkansas,2013,240,5,1
+34,California,1992,208,6,1
+35,California,1996,209,6,1
+36,California,2000,214,6,1
+37,California,2003,227,6,1
+38,California,2005,230,6,1
+39,California,2007,230,6,1
+40,California,2009,232,6,1
+41,California,2011,234,6,1
+42,California,2013,234,6,1
+43,Colorado,1992,221,8,1
+44,Colorado,1996,226,8,1
+45,Colorado,2003,235,8,1
+46,Colorado,2005,239,8,1
+47,Colorado,2007,240,8,1
+48,Colorado,2009,243,8,1
+49,Colorado,2011,244,8,1
+50,Colorado,2013,247,8,1
+51,Connecticut,1992,227,9,0
+52,Connecticut,1996,232,9,0
+53,Connecticut,2000,234,9,0
+54,Connecticut,2003,241,9,0
+55,Connecticut,2005,242,9,0
+56,Connecticut,2007,243,9,0
+57,Connecticut,2009,245,9,0
+58,Connecticut,2011,242,9,0
+59,Connecticut,2013,243,9,0
+60,Delaware,1992,218,10,0
+61,Delaware,1996,215,10,0
+62,Delaware,2003,236,10,0
+63,Delaware,2005,240,10,0
+64,Delaware,2007,242,10,0
+65,Delaware,2009,239,10,0
+66,Delaware,2011,240,10,0
+67,Delaware,2013,243,10,0
+68,Florida,1992,214,12,0
+69,Florida,1996,216,12,0
+70,Florida,2003,234,12,0
+71,Florida,2005,239,12,0
+72,Florida,2007,242,12,0
+73,Florida,2009,242,12,0
+74,Florida,2011,240,12,0
+75,Florida,2013,242,12,0
+76,Georgia,1992,216,13,0
+77,Georgia,1996,215,13,0
+78,Georgia,2000,220,13,0
+79,Georgia,2003,230,13,0
+80,Georgia,2005,234,13,0
+81,Georgia,2007,235,13,0
+82,Georgia,2009,236,13,0
+83,Georgia,2011,238,13,0
+84,Georgia,2013,240,13,0
+85,Hawaii,1992,214,15,0
+86,Hawaii,1996,215,15,0
+87,Hawaii,2000,216,15,0
+88,Hawaii,2003,227,15,0
+89,Hawaii,2005,230,15,0
+90,Hawaii,2007,234,15,0
+91,Hawaii,2009,236,15,0
+92,Hawaii,2011,239,15,0
+93,Hawaii,2013,243,15,0
+94,Idaho,1992,222,16,1
+95,Idaho,2000,227,16,1
+96,Idaho,2003,235,16,1
+97,Idaho,2005,242,16,1
+98,Idaho,2007,241,16,1
+99,Idaho,2009,241,16,1
+100,Idaho,2011,240,16,1
+101,Idaho,2013,241,16,1
+102,Illinois,2000,225,17,0
+103,Illinois,2003,233,17,0
+104,Illinois,2005,233,17,0
+105,Illinois,2007,237,17,0
+106,Illinois,2009,238,17,0
+107,Illinois,2011,239,17,0
+108,Illinois,2013,239,17,0
+109,Indiana,1992,221,18,1
+110,Indiana,1996,229,18,1
+111,Indiana,2000,234,18,1
+112,Indiana,2003,238,18,1
+113,Indiana,2005,240,18,1
+114,Indiana,2007,245,18,1
+115,Indiana,2009,243,18,1
+116,Indiana,2011,244,18,1
+117,Indiana,2013,249,18,1
+118,Iowa,1992,230,19,0
+119,Iowa,1996,229,19,0
+120,Iowa,2000,233,19,0
+121,Iowa,2003,238,19,0
+122,Iowa,2005,240,19,0
+123,Iowa,2007,243,19,0
+124,Iowa,2009,243,19,0
+125,Iowa,2011,243,19,0
+126,Iowa,2013,246,19,0
+127,Kansas,2000,232,20,1
+128,Kansas,2003,242,20,1
+129,Kansas,2005,246,20,1
+130,Kansas,2007,248,20,1
+131,Kansas,2009,245,20,1
+132,Kansas,2011,246,20,1
+133,Kansas,2013,246,20,1
+134,Kentucky,1992,215,21,1
+135,Kentucky,1996,220,21,1
+136,Kentucky,2000,221,21,1
+137,Kentucky,2003,229,21,1
+138,Kentucky,2005,231,21,1
+139,Kentucky,2007,235,21,1
+140,Kentucky,2009,239,21,1
+141,Kentucky,2011,241,21,1
+142,Kentucky,2013,241,21,1
+143,Louisiana,1992,204,22,0
+144,Louisiana,1996,209,22,0
+145,Louisiana,2000,218,22,0
+146,Louisiana,2003,226,22,0
+147,Louisiana,2005,230,22,0
+148,Louisiana,2007,230,22,0
+149,Louisiana,2009,229,22,0
+150,Louisiana,2011,231,22,0
+151,Louisiana,2013,231,22,0
+152,Maine,1992,232,23,0
+153,Maine,1996,232,23,0
+154,Maine,2000,231,23,0
+155,Maine,2003,238,23,0
+156,Maine,2005,241,23,0
+157,Maine,2007,242,23,0
+158,Maine,2009,244,23,0
+159,Maine,2011,244,23,0
+160,Maine,2013,246,23,0
+161,Maryland,1992,217,24,1
+162,Maryland,1996,221,24,1
+163,Maryland,2000,222,24,1
+164,Maryland,2003,233,24,1
+165,Maryland,2005,238,24,1
+166,Maryland,2007,240,24,1
+167,Maryland,2009,244,24,1
+168,Maryland,2011,247,24,1
+169,Maryland,2013,245,24,1
+170,Massachusetts,1992,227,25,1
+171,Massachusetts,1996,229,25,1
+172,Massachusetts,2000,235,25,1
+173,Massachusetts,2003,242,25,1
+174,Massachusetts,2005,247,25,1
+175,Massachusetts,2007,252,25,1
+176,Massachusetts,2009,252,25,1
+177,Massachusetts,2011,253,25,1
+178,Massachusetts,2013,253,25,1
+179,Michigan,1992,220,26,0
+180,Michigan,1996,226,26,0
+181,Michigan,2000,231,26,0
+182,Michigan,2003,236,26,0
+183,Michigan,2005,238,26,0
+184,Michigan,2007,238,26,0
+185,Michigan,2009,236,26,0
+186,Michigan,2011,236,26,0
+187,Michigan,2013,237,26,0
+188,Minnesota,1992,228,27,0
+189,Minnesota,1996,232,27,0
+190,Minnesota,2000,235,27,0
+191,Minnesota,2003,242,27,0
+192,Minnesota,2005,246,27,0
+193,Minnesota,2007,247,27,0
+194,Minnesota,2009,249,27,0
+195,Minnesota,2011,249,27,0
+196,Minnesota,2013,253,27,0
+197,Mississippi,1992,202,28,0
+198,Mississippi,1996,208,28,0
+199,Mississippi,2000,211,28,0
+200,Mississippi,2003,223,28,0
+201,Mississippi,2005,227,28,0
+202,Mississippi,2007,228,28,0
+203,Mississippi,2009,227,28,0
+204,Mississippi,2011,230,28,0
+205,Mississippi,2013,231,28,0
+206,Missouri,1992,222,29,1
+207,Missouri,1996,225,29,1
+208,Missouri,2000,229,29,1
+209,Missouri,2003,235,29,1
+210,Missouri,2005,235,29,1
+211,Missouri,2007,239,29,1
+212,Missouri,2009,241,29,1
+213,Missouri,2011,240,29,1
+214,Missouri,2013,240,29,1
+215,Montana,1996,228,30,1
+216,Montana,2000,230,30,1
+217,Montana,2003,236,30,1
+218,Montana,2005,241,30,1
+219,Montana,2007,244,30,1
+220,Montana,2009,244,30,1
+221,Montana,2011,244,30,1
+222,Montana,2013,244,30,1
+223,Nebraska,1992,225,31,0
+224,Nebraska,1996,228,31,0
+225,Nebraska,2000,226,31,0
+226,Nebraska,2003,236,31,0
+227,Nebraska,2005,238,31,0
+228,Nebraska,2007,238,31,0
+229,Nebraska,2009,239,31,0
+230,Nebraska,2011,240,31,0
+231,Nebraska,2013,243,31,0
+232,Nevada,1996,218,32,0
+233,Nevada,2000,220,32,0
+234,Nevada,2003,228,32,0
+235,Nevada,2005,230,32,0
+236,Nevada,2007,232,32,0
+237,Nevada,2009,235,32,0
+238,Nevada,2011,237,32,0
+239,Nevada,2013,236,32,0
+240,New Hampshire,1992,230,33,1
+241,New Hampshire,2003,243,33,1
+242,New Hampshire,2005,246,33,1
+243,New Hampshire,2007,249,33,1
+244,New Hampshire,2009,251,33,1
+245,New Hampshire,2011,252,33,1
+246,New Hampshire,2013,253,33,1
+247,New Jersey,1992,227,34,1
+248,New Jersey,1996,227,34,1
+249,New Jersey,2003,239,34,1
+250,New Jersey,2005,244,34,1
+251,New Jersey,2007,249,34,1
+252,New Jersey,2009,247,34,1
+253,New Jersey,2011,248,34,1
+254,New Jersey,2013,247,34,1
+255,New Mexico,1992,213,35,1
+256,New Mexico,1996,214,35,1
+257,New Mexico,2000,214,35,1
+258,New Mexico,2003,223,35,1
+259,New Mexico,2005,224,35,1
+260,New Mexico,2007,228,35,1
+261,New Mexico,2009,230,35,1
+262,New Mexico,2011,233,35,1
+263,New Mexico,2013,233,35,1
+264,New York,1992,218,36,1
+265,New York,1996,223,36,1
+266,New York,2000,227,36,1
+267,New York,2003,236,36,1
+268,New York,2005,238,36,1
+269,New York,2007,243,36,1
+270,New York,2009,241,36,1
+271,New York,2011,238,36,1
+272,New York,2013,240,36,1
+273,North Carolina,1992,213,37,1
+274,North Carolina,1996,224,37,1
+275,North Carolina,2000,232,37,1
+276,North Carolina,2003,242,37,1
+277,North Carolina,2005,241,37,1
+278,North Carolina,2007,242,37,1
+279,North Carolina,2009,244,37,1
+280,North Carolina,2011,245,37,1
+281,North Carolina,2013,245,37,1
+282,North Dakota,1992,229,38,1
+283,North Dakota,1996,231,38,1
+284,North Dakota,2000,231,38,1
+285,North Dakota,2003,238,38,1
+286,North Dakota,2005,243,38,1
+287,North Dakota,2007,245,38,1
+288,North Dakota,2009,245,38,1
+289,North Dakota,2011,245,38,1
+290,North Dakota,2013,246,38,1
+291,Ohio,1992,219,39,1
+292,Ohio,2000,231,39,1
+293,Ohio,2003,238,39,1
+294,Ohio,2005,242,39,1
+295,Ohio,2007,245,39,1
+296,Ohio,2009,244,39,1
+297,Ohio,2011,244,39,1
+298,Ohio,2013,246,39,1
+299,Oklahoma,1992,220,40,0
+300,Oklahoma,2000,225,40,0
+301,Oklahoma,2003,229,40,0
+302,Oklahoma,2005,234,40,0
+303,Oklahoma,2007,237,40,0
+304,Oklahoma,2009,237,40,0
+305,Oklahoma,2011,237,40,0
+306,Oklahoma,2013,239,40,0
+307,Oregon,1996,223,41,0
+308,Oregon,2000,227,41,0
+309,Oregon,2003,236,41,0
+310,Oregon,2005,238,41,0
+311,Oregon,2007,236,41,0
+312,Oregon,2009,238,41,0
+313,Oregon,2011,237,41,0
+314,Oregon,2013,240,41,0
+315,Pennsylvania,1992,224,42,0
+316,Pennsylvania,1996,226,42,0
+317,Pennsylvania,2003,236,42,0
+318,Pennsylvania,2005,241,42,0
+319,Pennsylvania,2007,244,42,0
+320,Pennsylvania,2009,244,42,0
+321,Pennsylvania,2011,246,42,0
+322,Pennsylvania,2013,244,42,0
+323,Rhode Island,1992,215,44,0
+324,Rhode Island,1996,220,44,0
+325,Rhode Island,2000,225,44,0
+326,Rhode Island,2003,230,44,0
+327,Rhode Island,2005,233,44,0
+328,Rhode Island,2007,236,44,0
+329,Rhode Island,2009,239,44,0
+330,Rhode Island,2011,242,44,0
+331,Rhode Island,2013,241,44,0
+332,South Carolina,1992,212,45,0
+333,South Carolina,1996,213,45,0
+334,South Carolina,2000,220,45,0
+335,South Carolina,2003,236,45,0
+336,South Carolina,2005,238,45,0
+337,South Carolina,2007,237,45,0
+338,South Carolina,2009,236,45,0
+339,South Carolina,2011,237,45,0
+340,South Carolina,2013,237,45,0
+341,South Dakota,2003,237,46,0
+342,South Dakota,2005,242,46,0
+343,South Dakota,2007,241,46,0
+344,South Dakota,2009,242,46,0
+345,South Dakota,2011,241,46,0
+346,South Dakota,2013,241,46,0
+347,Tennessee,1992,211,47,1
+348,Tennessee,1996,219,47,1
+349,Tennessee,2000,220,47,1
+350,Tennessee,2003,228,47,1
+351,Tennessee,2005,232,47,1
+352,Tennessee,2007,233,47,1
+353,Tennessee,2009,232,47,1
+354,Tennessee,2011,233,47,1
+355,Tennessee,2013,240,47,1
+356,Texas,1992,218,48,1
+357,Texas,1996,229,48,1
+358,Texas,2000,233,48,1
+359,Texas,2003,237,48,1
+360,Texas,2005,242,48,1
+361,Texas,2007,242,48,1
+362,Texas,2009,240,48,1
+363,Texas,2011,241,48,1
+364,Texas,2013,242,48,1
+365,Utah,1992,224,49,0
+366,Utah,1996,227,49,0
+367,Utah,2000,227,49,0
+368,Utah,2003,235,49,0
+369,Utah,2005,239,49,0
+370,Utah,2007,239,49,0
+371,Utah,2009,240,49,0
+372,Utah,2011,243,49,0
+373,Utah,2013,243,49,0
+374,Vermont,1996,225,50,1
+375,Vermont,2000,232,50,1
+376,Vermont,2003,242,50,1
+377,Vermont,2005,244,50,1
+378,Vermont,2007,246,50,1
+379,Vermont,2009,248,50,1
+380,Vermont,2011,247,50,1
+381,Vermont,2013,248,50,1
+382,Virginia,1992,221,51,0
+383,Virginia,1996,223,51,0
+384,Virginia,2000,230,51,0
+385,Virginia,2003,239,51,0
+386,Virginia,2005,240,51,0
+387,Virginia,2007,244,51,0
+388,Virginia,2009,243,51,0
+389,Virginia,2011,245,51,0
+390,Virginia,2013,246,51,0
+391,Washington,1996,225,53,1
+392,Washington,2003,238,53,1
+393,Washington,2005,242,53,1
+394,Washington,2007,243,53,1
+395,Washington,2009,242,53,1
+396,Washington,2011,243,53,1
+397,Washington,2013,246,53,1
+398,West Virginia,1992,215,54,1
+399,West Virginia,1996,223,54,1
+400,West Virginia,2000,225,54,1
+401,West Virginia,2003,231,54,1
+402,West Virginia,2005,231,54,1
+403,West Virginia,2007,236,54,1
+404,West Virginia,2009,233,54,1
+405,West Virginia,2011,235,54,1
+406,West Virginia,2013,237,54,1
+407,Wisconsin,1992,229,55,0
+408,Wisconsin,1996,231,55,0
+409,Wisconsin,2003,237,55,0
+410,Wisconsin,2005,241,55,0
+411,Wisconsin,2007,244,55,0
+412,Wisconsin,2009,244,55,0
+413,Wisconsin,2011,245,55,0
+414,Wisconsin,2013,245,55,0
+415,Wyoming,1992,225,56,1
+416,Wyoming,1996,223,56,1
+417,Wyoming,2000,229,56,1
+418,Wyoming,2003,241,56,1
+419,Wyoming,2005,243,56,1
+420,Wyoming,2007,244,56,1
+421,Wyoming,2009,242,56,1
+422,Wyoming,2011,244,56,1
+423,Wyoming,2013,247,56,1

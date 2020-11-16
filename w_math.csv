@@ -1,0 +1,221 @@
+,STATES,YEAR,MATH,FIPST,REFORM
+9,Alaska,1996,224,2,1
+10,Alaska,2003,233,2,1
+11,Alaska,2005,236,2,1
+12,Alaska,2007,237,2,1
+13,Alaska,2009,237,2,1
+14,Alaska,2011,236,2,1
+15,Alaska,2013,236,2,1
+16,Arizona,1992,215,4,1
+17,Arizona,1996,218,4,1
+18,Arizona,2000,219,4,1
+19,Arizona,2003,229,4,1
+20,Arizona,2005,230,4,1
+21,Arizona,2007,232,4,1
+22,Arizona,2009,230,4,1
+23,Arizona,2011,235,4,1
+24,Arizona,2013,240,4,1
+25,Arkansas,1992,210,5,1
+26,Arkansas,1996,216,5,1
+27,Arkansas,2000,217,5,1
+28,Arkansas,2003,229,5,1
+29,Arkansas,2005,236,5,1
+30,Arkansas,2007,238,5,1
+31,Arkansas,2009,238,5,1
+32,Arkansas,2011,238,5,1
+33,Arkansas,2013,240,5,1
+34,California,1992,208,6,1
+35,California,1996,209,6,1
+36,California,2000,214,6,1
+37,California,2003,227,6,1
+38,California,2005,230,6,1
+39,California,2007,230,6,1
+40,California,2009,232,6,1
+41,California,2011,234,6,1
+42,California,2013,234,6,1
+43,Colorado,1992,221,8,1
+44,Colorado,1996,226,8,1
+45,Colorado,2003,235,8,1
+46,Colorado,2005,239,8,1
+47,Colorado,2007,240,8,1
+48,Colorado,2009,243,8,1
+49,Colorado,2011,244,8,1
+50,Colorado,2013,247,8,1
+94,Idaho,1992,222,16,1
+95,Idaho,2000,227,16,1
+96,Idaho,2003,235,16,1
+97,Idaho,2005,242,16,1
+98,Idaho,2007,241,16,1
+99,Idaho,2009,241,16,1
+100,Idaho,2011,240,16,1
+101,Idaho,2013,241,16,1
+109,Indiana,1992,221,18,1
+110,Indiana,1996,229,18,1
+111,Indiana,2000,234,18,1
+112,Indiana,2003,238,18,1
+113,Indiana,2005,240,18,1
+114,Indiana,2007,245,18,1
+115,Indiana,2009,243,18,1
+116,Indiana,2011,244,18,1
+117,Indiana,2013,249,18,1
+127,Kansas,2000,232,20,1
+128,Kansas,2003,242,20,1
+129,Kansas,2005,246,20,1
+130,Kansas,2007,248,20,1
+131,Kansas,2009,245,20,1
+132,Kansas,2011,246,20,1
+133,Kansas,2013,246,20,1
+134,Kentucky,1992,215,21,1
+135,Kentucky,1996,220,21,1
+136,Kentucky,2000,221,21,1
+137,Kentucky,2003,229,21,1
+138,Kentucky,2005,231,21,1
+139,Kentucky,2007,235,21,1
+140,Kentucky,2009,239,21,1
+141,Kentucky,2011,241,21,1
+142,Kentucky,2013,241,21,1
+161,Maryland,1992,217,24,1
+162,Maryland,1996,221,24,1
+163,Maryland,2000,222,24,1
+164,Maryland,2003,233,24,1
+165,Maryland,2005,238,24,1
+166,Maryland,2007,240,24,1
+167,Maryland,2009,244,24,1
+168,Maryland,2011,247,24,1
+169,Maryland,2013,245,24,1
+170,Massachusetts,1992,227,25,1
+171,Massachusetts,1996,229,25,1
+172,Massachusetts,2000,235,25,1
+173,Massachusetts,2003,242,25,1
+174,Massachusetts,2005,247,25,1
+175,Massachusetts,2007,252,25,1
+176,Massachusetts,2009,252,25,1
+177,Massachusetts,2011,253,25,1
+178,Massachusetts,2013,253,25,1
+206,Missouri,1992,222,29,1
+207,Missouri,1996,225,29,1
+208,Missouri,2000,229,29,1
+209,Missouri,2003,235,29,1
+210,Missouri,2005,235,29,1
+211,Missouri,2007,239,29,1
+212,Missouri,2009,241,29,1
+213,Missouri,2011,240,29,1
+214,Missouri,2013,240,29,1
+215,Montana,1996,228,30,1
+216,Montana,2000,230,30,1
+217,Montana,2003,236,30,1
+218,Montana,2005,241,30,1
+219,Montana,2007,244,30,1
+220,Montana,2009,244,30,1
+221,Montana,2011,244,30,1
+222,Montana,2013,244,30,1
+240,New Hampshire,1992,230,33,1
+241,New Hampshire,2003,243,33,1
+242,New Hampshire,2005,246,33,1
+243,New Hampshire,2007,249,33,1
+244,New Hampshire,2009,251,33,1
+245,New Hampshire,2011,252,33,1
+246,New Hampshire,2013,253,33,1
+247,New Jersey,1992,227,34,1
+248,New Jersey,1996,227,34,1
+249,New Jersey,2003,239,34,1
+250,New Jersey,2005,244,34,1
+251,New Jersey,2007,249,34,1
+252,New Jersey,2009,247,34,1
+253,New Jersey,2011,248,34,1
+254,New Jersey,2013,247,34,1
+255,New Mexico,1992,213,35,1
+256,New Mexico,1996,214,35,1
+257,New Mexico,2000,214,35,1
+258,New Mexico,2003,223,35,1
+259,New Mexico,2005,224,35,1
+260,New Mexico,2007,228,35,1
+261,New Mexico,2009,230,35,1
+262,New Mexico,2011,233,35,1
+263,New Mexico,2013,233,35,1
+264,New York,1992,218,36,1
+265,New York,1996,223,36,1
+266,New York,2000,227,36,1
+267,New York,2003,236,36,1
+268,New York,2005,238,36,1
+269,New York,2007,243,36,1
+270,New York,2009,241,36,1
+271,New York,2011,238,36,1
+272,New York,2013,240,36,1
+273,North Carolina,1992,213,37,1
+274,North Carolina,1996,224,37,1
+275,North Carolina,2000,232,37,1
+276,North Carolina,2003,242,37,1
+277,North Carolina,2005,241,37,1
+278,North Carolina,2007,242,37,1
+279,North Carolina,2009,244,37,1
+280,North Carolina,2011,245,37,1
+281,North Carolina,2013,245,37,1
+282,North Dakota,1992,229,38,1
+283,North Dakota,1996,231,38,1
+284,North Dakota,2000,231,38,1
+285,North Dakota,2003,238,38,1
+286,North Dakota,2005,243,38,1
+287,North Dakota,2007,245,38,1
+288,North Dakota,2009,245,38,1
+289,North Dakota,2011,245,38,1
+290,North Dakota,2013,246,38,1
+291,Ohio,1992,219,39,1
+292,Ohio,2000,231,39,1
+293,Ohio,2003,238,39,1
+294,Ohio,2005,242,39,1
+295,Ohio,2007,245,39,1
+296,Ohio,2009,244,39,1
+297,Ohio,2011,244,39,1
+298,Ohio,2013,246,39,1
+347,Tennessee,1992,211,47,1
+348,Tennessee,1996,219,47,1
+349,Tennessee,2000,220,47,1
+350,Tennessee,2003,228,47,1
+351,Tennessee,2005,232,47,1
+352,Tennessee,2007,233,47,1
+353,Tennessee,2009,232,47,1
+354,Tennessee,2011,233,47,1
+355,Tennessee,2013,240,47,1
+356,Texas,1992,218,48,1
+357,Texas,1996,229,48,1
+358,Texas,2000,233,48,1
+359,Texas,2003,237,48,1
+360,Texas,2005,242,48,1
+361,Texas,2007,242,48,1
+362,Texas,2009,240,48,1
+363,Texas,2011,241,48,1
+364,Texas,2013,242,48,1
+374,Vermont,1996,225,50,1
+375,Vermont,2000,232,50,1
+376,Vermont,2003,242,50,1
+377,Vermont,2005,244,50,1
+378,Vermont,2007,246,50,1
+379,Vermont,2009,248,50,1
+380,Vermont,2011,247,50,1
+381,Vermont,2013,248,50,1
+391,Washington,1996,225,53,1
+392,Washington,2003,238,53,1
+393,Washington,2005,242,53,1
+394,Washington,2007,243,53,1
+395,Washington,2009,242,53,1
+396,Washington,2011,243,53,1
+397,Washington,2013,246,53,1
+398,West Virginia,1992,215,54,1
+399,West Virginia,1996,223,54,1
+400,West Virginia,2000,225,54,1
+401,West Virginia,2003,231,54,1
+402,West Virginia,2005,231,54,1
+403,West Virginia,2007,236,54,1
+404,West Virginia,2009,233,54,1
+405,West Virginia,2011,235,54,1
+406,West Virginia,2013,237,54,1
+415,Wyoming,1992,225,56,1
+416,Wyoming,1996,223,56,1
+417,Wyoming,2000,229,56,1
+418,Wyoming,2003,241,56,1
+419,Wyoming,2005,243,56,1
+420,Wyoming,2007,244,56,1
+421,Wyoming,2009,242,56,1
+422,Wyoming,2011,244,56,1
+423,Wyoming,2013,247,56,1
